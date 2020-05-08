@@ -1,4 +1,10 @@
 # 100 Days Of Code - Log
+### Day 4: May 7, 2020
+
+**Today's Progress**: Converted Redux/Sagas bits to Typescript, as well as some components.  WishlistDisplay isn't ready yet though because I need to get better typing in ReduxHooks.
+
+**Thoughts**:  I am really glad I'm doing this now and not later.  Converting to TS is a pain.
+
 ### Day 3: May 6, 2020
 
 **Today's Progress**: Got Redux sagas working for deleting an item from a wishlist.  Pulled that custom hook into its own file and I suspect I'll be making more.  Wishlist entry form now renders a loading spinner after you click the button, and then re-renders the form once the action has been completed.
