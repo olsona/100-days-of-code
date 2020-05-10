@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+
+### Day 5: May 9, 2020
+
+**Today's Progress**: More typing, think I've mostly got it.  More Material UI work.
+
+**Thoughts**: I friggin love types.  This exercise of converting my Redux/Saga code to TS has definitely helped my understanding of Redux too.
+
 ### Day 4: May 7, 2020
 
 **Today's Progress**: Converted Redux/Sagas bits to Typescript, as well as some components.  WishlistDisplay isn't ready yet though because I need to get better typing in ReduxHooks.
