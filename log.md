@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 7: May 10, 2020
+
+**Today's Progress**: I think I understand react routing a bit better now.  Maybe.
+
+**Thoughts**: Need to actually decide on UX before I make any more frontend changes.  In the meanwhile I'm going to work on adding friends and associated visibility on the backend.
+
 ### Day 5: May 9, 2020
 
 **Today's Progress**: More typing, think I've mostly got it.  More Material UI work.
