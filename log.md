@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 8: May 11, 2020
+
+**Today's Progress**: Made a user relationships table and added the ability to add and destory (ha!) user relationships.
+
+**Thoughts**: The stuff I followed from the tutorial makes a _lot_ more sense now.  Nothing like breaking something to learn how it works!
+
 ### Day 7: May 10, 2020
 
 **Today's Progress**: I think I understand react routing a bit better now.  Maybe.
