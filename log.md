@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 9: May 12, 2020
+
+**Today's Progress**: All my coding was spent on a coding exercise for a job I want.  Code does what I want, but it could have used more tests.  (It can always use more tests.)
+
+**Thoughts**: Wow am I rusty on plain Ruby.  Rails is a rather different beast!  Didn't realize how much of a difference frameworks, and how ubiquitous that difference is.
+
 ### Day 8: May 11, 2020
 
 **Today's Progress**: Made a user relationships table and added the ability to add and destory (ha!) user relationships.
