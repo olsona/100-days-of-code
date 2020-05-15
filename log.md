@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 10: May 13, 2020
+
+**Today's Progress**: Today was very busy, so I didn't get much coding done.  I did get started on being able to view friends' wishlists, and returning different details on wishlists depending on who's viewing.
+
+**Thoughts**: Starting to get away from JBuilder, which was used in the tutorial I followed most closely.  I want more centralized control over what's being rendered.
+
 ### Day 9: May 12, 2020
 
 **Today's Progress**: All my coding was spent on a coding exercise for a job I want.  Code does what I want, but it could have used more tests.  (It can always use more tests.)
