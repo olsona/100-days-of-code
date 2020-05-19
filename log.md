@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 11: May 18, 2020
+
+**Today's Progress**: Learned about nested resources and understood more about the example controllers I've seen.
+
+**Thoughts**: Definitely need to think more about the Wishlist vs User relationship.  Do I want to have multiple Wishlists per User?  Do I want to screw around with visibility and which Users can see which Wishlists?  Or just one Wishlist per User, and in that case, why have a Wishlist model at all?  Need to think more.
+
 ### Day 10: May 13, 2020
 
 **Today's Progress**: Today was very busy, so I didn't get much coding done.  I did get started on being able to view friends' wishlists, and returning different details on wishlists depending on who's viewing.
