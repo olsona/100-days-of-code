@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 12: May 19, 2020
+
+**Today's Progress**: Cleaned up the Wishlists controller a lot.  Decided to allow multiple wishlists per user, but each user will have a default wishlist.  Learned about double-rendering and the dangers of being too clever.  Tomorrow I will have to figure out how to handle the Wishlist Items controller now that the resource is within the Wishlists resource.
+
+**Thoughts**: I definitely have to keep the walking skeleton metaphor in mind, and I have to avoid cleverness for now.  Just get the thing working in the first place, then add in elegance and cleverness.  
+
 ### Day 11: May 18, 2020
 
 **Today's Progress**: Learned about nested resources and understood more about the example controllers I've seen.
