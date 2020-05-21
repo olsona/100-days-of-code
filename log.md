@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 13: May 20, 2020
+
+**Today's Progress**: Had a couple of interviews and didn't feel great.  Clearly dynamic programming is a weak spot for me, and I was being too clever (again).  Need to spend more time practicing on HackerRank and the like while I've got interviews in the pipeline.
+
+**Thoughts**: Some days are just bad days.
+
 ### Day 12: May 19, 2020
 
 **Today's Progress**: Cleaned up the Wishlists controller a lot.  Decided to allow multiple wishlists per user, but each user will have a default wishlist.  Learned about double-rendering and the dangers of being too clever.  Tomorrow I will have to figure out how to handle the Wishlist Items controller now that the resource is within the Wishlists resource.
