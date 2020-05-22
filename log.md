@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 14: May 21, 2020
+
+**Today's Progress**: Updated WishlistItems controller to reflect that it is dependent on Wishlist.  Toyed around with contracts.  Next task is to fix the frontend to work with the new routes and contracts, and also add user relationships.
+
+**Thoughts**: Finding out one of my interviews yesterday went well definitely gave me a boost, and I felt good two interviews today.  One's ability to produce creative work on their own is influenced by mood, who knew?
+
 ### Day 13: May 20, 2020
 
 **Today's Progress**: Had a couple of interviews and didn't feel great.  Clearly dynamic programming is a weak spot for me, and I was being too clever (again).  Need to spend more time practicing on HackerRank and the like while I've got interviews in the pipeline.
